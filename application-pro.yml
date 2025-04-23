@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: Configuration-Pro
-
 #Eureka Discovery Client configuration
 eureka:
   client:
