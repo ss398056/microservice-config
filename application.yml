@@ -1,6 +1,6 @@
 spring:
   application:
-    name: Configuration
+    name: Configuration-Default
 
 #Eureka Discovery Client configuration
 eureka:
